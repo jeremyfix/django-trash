@@ -3,3 +3,4 @@ default_auto_field	/home/fix_jer/GIT/django-trash/RealPython/rp-portfolio/hello_
 HelloWorldConfig	/home/fix_jer/GIT/django-trash/RealPython/rp-portfolio/hello_world/apps.py	/^class HelloWorldConfig(AppConfig):$/;"	c	language:Python
 hello_world	/home/fix_jer/GIT/django-trash/RealPython/rp-portfolio/hello_world/views.py	/^def hello_world(request):$/;"	f	language:Python
 name	/home/fix_jer/GIT/django-trash/RealPython/rp-portfolio/hello_world/apps.py	/^    name = "hello_world"$/;"	v	language:Python	class:HelloWorldConfig
+urlpatterns	/home/fix_jer/GIT/django-trash/RealPython/rp-portfolio/hello_world/urls.py	/^urlpatterns = [path("", views.hello_world, name="hello_world")]$/;"	v	language:Python
