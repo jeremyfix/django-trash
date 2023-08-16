@@ -13,7 +13,7 @@ SECRET_KEY	/home/fix_jer/GIT/django-trash/RealPython/rp-portfolio/personal_portf
 STATIC_URL	/home/fix_jer/GIT/django-trash/RealPython/rp-portfolio/personal_portfolio/settings.py	/^STATIC_URL = "static\/"$/;"	v	language:Python
 TEMPLATES	/home/fix_jer/GIT/django-trash/RealPython/rp-portfolio/personal_portfolio/settings.py	/^TEMPLATES = [$/;"	v	language:Python
 TIME_ZONE	/home/fix_jer/GIT/django-trash/RealPython/rp-portfolio/personal_portfolio/settings.py	/^TIME_ZONE = "UTC"$/;"	v	language:Python
-urlpatterns	/home/fix_jer/GIT/django-trash/RealPython/rp-portfolio/personal_portfolio/urls.py	/^urlpatterns = [path("admin\/", admin.site.urls), path("", include("hello_world.urls"))]$/;"	v	language:Python
+urlpatterns	/home/fix_jer/GIT/django-trash/RealPython/rp-portfolio/personal_portfolio/urls.py	/^urlpatterns = [$/;"	v	language:Python
 USE_I18N	/home/fix_jer/GIT/django-trash/RealPython/rp-portfolio/personal_portfolio/settings.py	/^USE_I18N = True$/;"	v	language:Python
 USE_TZ	/home/fix_jer/GIT/django-trash/RealPython/rp-portfolio/personal_portfolio/settings.py	/^USE_TZ = True$/;"	v	language:Python
 WSGI_APPLICATION	/home/fix_jer/GIT/django-trash/RealPython/rp-portfolio/personal_portfolio/settings.py	/^WSGI_APPLICATION = "personal_portfolio.wsgi.application"$/;"	v	language:Python
