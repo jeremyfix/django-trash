@@ -1,0 +1,18 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+ALLOWED_HOSTS	/home/fix_jer/GIT/django-trash/RealPython/rp-portfolio/personal_portfolio/settings.py	/^ALLOWED_HOSTS = []$/;"	v	language:Python
+AUTH_PASSWORD_VALIDATORS	/home/fix_jer/GIT/django-trash/RealPython/rp-portfolio/personal_portfolio/settings.py	/^AUTH_PASSWORD_VALIDATORS = [$/;"	v	language:Python
+BASE_DIR	/home/fix_jer/GIT/django-trash/RealPython/rp-portfolio/personal_portfolio/settings.py	/^BASE_DIR = Path(__file__).resolve().parent.parent$/;"	v	language:Python
+DATABASES	/home/fix_jer/GIT/django-trash/RealPython/rp-portfolio/personal_portfolio/settings.py	/^DATABASES = {$/;"	v	language:Python
+DEBUG	/home/fix_jer/GIT/django-trash/RealPython/rp-portfolio/personal_portfolio/settings.py	/^DEBUG = True$/;"	v	language:Python
+DEFAULT_AUTO_FIELD	/home/fix_jer/GIT/django-trash/RealPython/rp-portfolio/personal_portfolio/settings.py	/^DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"$/;"	v	language:Python
+INSTALLED_APPS	/home/fix_jer/GIT/django-trash/RealPython/rp-portfolio/personal_portfolio/settings.py	/^INSTALLED_APPS = [$/;"	v	language:Python
+LANGUAGE_CODE	/home/fix_jer/GIT/django-trash/RealPython/rp-portfolio/personal_portfolio/settings.py	/^LANGUAGE_CODE = "en-us"$/;"	v	language:Python
+MIDDLEWARE	/home/fix_jer/GIT/django-trash/RealPython/rp-portfolio/personal_portfolio/settings.py	/^MIDDLEWARE = [$/;"	v	language:Python
+ROOT_URLCONF	/home/fix_jer/GIT/django-trash/RealPython/rp-portfolio/personal_portfolio/settings.py	/^ROOT_URLCONF = "personal_portfolio.urls"$/;"	v	language:Python
+SECRET_KEY	/home/fix_jer/GIT/django-trash/RealPython/rp-portfolio/personal_portfolio/settings.py	/^SECRET_KEY = "django-insecure-x68h^c)ax1ur#g6gn*%d5@^q_%$gfm&7)22oo-c+)piy^*p6qf"$/;"	v	language:Python
+STATIC_URL	/home/fix_jer/GIT/django-trash/RealPython/rp-portfolio/personal_portfolio/settings.py	/^STATIC_URL = "static\/"$/;"	v	language:Python
+TEMPLATES	/home/fix_jer/GIT/django-trash/RealPython/rp-portfolio/personal_portfolio/settings.py	/^TEMPLATES = [$/;"	v	language:Python
+TIME_ZONE	/home/fix_jer/GIT/django-trash/RealPython/rp-portfolio/personal_portfolio/settings.py	/^TIME_ZONE = "UTC"$/;"	v	language:Python
+USE_I18N	/home/fix_jer/GIT/django-trash/RealPython/rp-portfolio/personal_portfolio/settings.py	/^USE_I18N = True$/;"	v	language:Python
+USE_TZ	/home/fix_jer/GIT/django-trash/RealPython/rp-portfolio/personal_portfolio/settings.py	/^USE_TZ = True$/;"	v	language:Python
+WSGI_APPLICATION	/home/fix_jer/GIT/django-trash/RealPython/rp-portfolio/personal_portfolio/settings.py	/^WSGI_APPLICATION = "personal_portfolio.wsgi.application"$/;"	v	language:Python
